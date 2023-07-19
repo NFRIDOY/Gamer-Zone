@@ -1,0 +1,18 @@
+echo "# Gamer-Zone" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NFRIDOY/Gamer-Zone.git
+git push -u origin main
+
+-------------------------
+
+git remote add origin https://github.com/NFRIDOY/Gamer-Zone.git
+git branch -M main
+git push -u origin main
+
+----------------------------
+
+Github Link - https://github.com/NFRIDOY/Gamer-Zone
+Live Link - https://nfridoy.github.io/Gamer-Zone/
